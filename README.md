@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=header&text=Welcome!&fontSize=40&fontColor=ffffff"/>
 </p>
 
-# 👋 Hi, I’m Shaykhah Almaani  
+# 👋 Hi, I’m Shaykhah   
 
 🚀 **Computer Science Graduate** specializing in **AI, Cloud, and Software Engineering**.  
 💡 Passionate about building **scalable, user-focused systems** and driving **digital transformation**.  
